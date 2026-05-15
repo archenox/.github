@@ -1,6 +1,6 @@
 # Archenox
 
-> Small team. Solid engineering. No shortcuts.
+> Small team. Solid engineering. No shortcuts
 
 We are two software engineers building real-world products with a focus on clean architecture, performance, and maintainability. We don't have a large team or enterprise resources — we have discipline, curiosity, and a commitment to quality in every line of code.
 
@@ -30,7 +30,7 @@ We believe that two engineers with the right mindset can build things that matte
 
 | Project | Description | Status |
 |---|---|---|
-| Coming soon | — | 🔧 In progress |
+| Coming soon | — | In progress |
 
 ---
 
